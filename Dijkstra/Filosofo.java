@@ -1,3 +1,4 @@
+package Dijkstra;
 public class Filosofo extends Thread
 {
    final static int TEMPO_MAXIMO = 100;

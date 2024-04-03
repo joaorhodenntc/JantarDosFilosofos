@@ -1,3 +1,4 @@
+package Dijkstra;
 public class Mesa
 {
    final static int PENSANDO = 1;
